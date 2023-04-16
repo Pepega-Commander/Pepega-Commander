@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pepega-Commander
-- 👀 I’m interested in something xD
+- 👋 Hi, I’m @Pepega-Commander or Crystalfire
+- 👀 I’m interested in HORDE russian localisation at the moment
 
 <!---
 Pepega-Commander/Pepega-Commander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
